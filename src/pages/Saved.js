@@ -1,4 +1,4 @@
  const Saved = () => {
-   return <h1>Nothing is Saved</h1>
+   return <h1 style= {{textAlign:'center'}}>nothing is Saved yet</h1>
  }
  export default Saved;
